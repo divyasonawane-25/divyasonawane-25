@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying computer engineering
 - 😄 Pronouns: she/her
+- creating projects using frontend(HTML,CSS,Javascript)
 
 
 <!---
